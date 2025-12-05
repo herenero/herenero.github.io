@@ -1,4 +1,11 @@
+---
+title: 극장판 포켓몬스터 DP - 아르세우스 초극의 시공으로
+date: 2009-12-24
+tags:
+  - 평점/8점
+---
 
+(본문 내용...)
 ![[still_353_20240611152452_2.jpg]]
 <div style="white-space: pre; text-align:center; font-weight: bold; font-size: 1.5rem">
 극장판 포켓몬스터 DP - 아르세우스 초극의 시공으로
